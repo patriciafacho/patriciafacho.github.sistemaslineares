@@ -1,2 +1,2 @@
-# http://patriciafacho.github.sistemaslineares
+# patriciafacho.github.sistemaslineares
 Sistemas Lineares no Python
